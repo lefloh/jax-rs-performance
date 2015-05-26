@@ -30,6 +30,6 @@ Every test was run with 5 Threads and repeated 500000 times. JBoss was restarted
 | Singleton                 |   2 |   0 | 195 |            2000 |  
 | Singleton with @Context   |   2 |   0 | 397 |            2022 |
 
-The JVisualVM Screenshots can be found in [results/jmeter](results/jmeter).
+The JVisualVM Screenshots can be found in [results/visualvm](results/visualvm).
     
  [1]: http://stackoverflow.com/questions/30409895/jax-rs-resource-lifecycle-performance-impact
