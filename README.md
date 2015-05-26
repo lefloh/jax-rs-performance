@@ -21,7 +21,7 @@ The host and number of test iterations can be configured in the jmeter-maven-plu
 ## Results
 
 The tests were performed with Java 1.8.0_45, Wildfly 8.2.0.Final including RESTeasy 3.0.10.Final.
-Every test was run with 5 Threads and repeated 500000 times. JBoss was restarted after every test.
+Every test was executed with 5 Threads and repeated 500000 times. Wildfly was restarted after every test.
 
 | Test                      | Avg | Min | Max | Requests/Second | 
 | ------------------------- | --: | --: | --: | --------------: |
