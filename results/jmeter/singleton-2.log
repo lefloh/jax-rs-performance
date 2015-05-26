@@ -1,0 +1,93 @@
+[info] Executing test: singleton-2.jmx
+[debug] Creating summariser <summary>
+[debug] Created the tree successfully using /Users/floh/dev/workspaces/eclipse_work/jax-rs-performance/src/test/jmeter/singleton-2.jmx
+[debug] Starting the test @ Tue May 26 15:39:30 CEST 2015 (1432647570603)
+[debug] Waiting for possible shutdown message on port 4445
+[debug] summary +      1 in     1s =    1,8/s Avg:   128 Min:   128 Max:   128 Err:     0 (0,00%) Active: 3 Started: 3 Finished: 0
+[debug] summary +  52364 in    29s = 1819,6/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary =  52365 in  29,3s = 1784,3/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  54189 in    30s = 1806,1/s Avg:     2 Min:     0 Max:    14 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 106554 in  59,4s = 1795,3/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  57569 in    30s = 1919,1/s Avg:     2 Min:     0 Max:    13 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 164123 in  89,3s = 1836,9/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  61953 in    30s = 2065,1/s Avg:     2 Min:     0 Max:    13 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 226076 in   119s = 1894,2/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  65083 in    30s = 2169,5/s Avg:     2 Min:     0 Max:    12 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 291159 in   149s = 1949,5/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  70307 in    30s = 2343,6/s Avg:     2 Min:     0 Max:    13 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 361466 in   179s = 2015,4/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  69253 in    30s = 2307,7/s Avg:     2 Min:     0 Max:    15 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 430719 in   209s = 2057,3/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  67590 in    30s = 2253,7/s Avg:     2 Min:     0 Max:    13 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 498309 in   239s = 2081,9/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  66036 in    30s = 2201,2/s Avg:     2 Min:     0 Max:    12 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 564345 in   269s = 2095,2/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  64864 in    30s = 2161,6/s Avg:     2 Min:     0 Max:    18 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 629209 in   299s = 2101,9/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  64653 in    30s = 2155,4/s Avg:     2 Min:     0 Max:    16 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 693862 in   329s = 2106,8/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  64922 in    30s = 2164,1/s Avg:     2 Min:     0 Max:    17 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 758784 in   359s = 2111,5/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  62985 in    30s = 2099,7/s Avg:     2 Min:     0 Max:    13 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 821769 in   389s = 2110,6/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  64163 in    30s = 2138,4/s Avg:     2 Min:     0 Max:    15 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 885932 in   419s = 2112,6/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  55568 in    30s = 1852,4/s Avg:     2 Min:     0 Max:    17 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 941500 in   449s = 2095,2/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  55625 in    30s = 1854,2/s Avg:     2 Min:     0 Max:    31 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 997125 in   479s = 2080,2/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  60143 in    30s = 2004,8/s Avg:     2 Min:     0 Max:    15 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1057268 in   509s = 2075,7/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  63989 in    30s = 2133,2/s Avg:     2 Min:     0 Max:    18 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1121257 in   539s = 2078,9/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  65212 in    30s = 2173,7/s Avg:     2 Min:     0 Max:    13 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1186469 in   569s = 2083,9/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  66262 in    30s = 2208,3/s Avg:     2 Min:     0 Max:    18 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1252731 in   599s = 2090,1/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  61246 in    30s = 2042,0/s Avg:     2 Min:     0 Max:    20 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1313977 in   629s = 2087,8/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  53713 in    30s = 1790,4/s Avg:     2 Min:     0 Max:    14 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1367690 in   659s = 2074,3/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  56355 in    30s = 1878,5/s Avg:     2 Min:     0 Max:    21 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1424045 in   689s = 2065,8/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  63604 in    30s = 2119,6/s Avg:     2 Min:     0 Max:    13 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1487649 in   719s = 2068,0/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  64264 in    30s = 2142,4/s Avg:     2 Min:     0 Max:    20 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1551913 in   749s = 2071,0/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  64070 in    30s = 2135,9/s Avg:     2 Min:     0 Max:    12 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1615983 in   779s = 2073,5/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  63308 in    30s = 2110,3/s Avg:     2 Min:     0 Max:    14 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1679291 in   809s = 2074,9/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  61522 in    30s = 2050,7/s Avg:     2 Min:     0 Max:    16 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1740813 in   839s = 2074,0/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  58041 in    30s = 1934,7/s Avg:     2 Min:     0 Max:    17 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1798854 in   869s = 2069,2/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  54458 in    30s = 1815,2/s Avg:     2 Min:     0 Max:    17 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1853312 in   899s = 2060,7/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  58049 in    30s = 1935,1/s Avg:     2 Min:     0 Max:    25 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1911361 in   929s = 2056,7/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  64077 in    30s = 2136,0/s Avg:     2 Min:     0 Max:    20 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 1975438 in   959s = 2059,1/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  68506 in    30s = 2283,7/s Avg:     2 Min:     0 Max:    15 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2043944 in   989s = 2066,0/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  65793 in    30s = 2193,1/s Avg:     2 Min:     0 Max:    30 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2109737 in  1019s = 2069,7/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  62099 in    30s = 2069,8/s Avg:     2 Min:     0 Max:    18 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2171836 in  1049s = 2069,7/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  62752 in    30s = 2091,9/s Avg:     2 Min:     0 Max:    17 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2234588 in  1079s = 2070,3/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  59348 in    30s = 1978,3/s Avg:     2 Min:     0 Max:    16 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2293936 in  1109s = 2067,8/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  55032 in    30s = 1834,0/s Avg:     2 Min:     0 Max:    14 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2348968 in  1139s = 2061,7/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  55756 in    30s = 1859,0/s Avg:     2 Min:     0 Max:    15 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2404724 in  1169s = 2056,5/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  57827 in    30s = 1927,2/s Avg:     2 Min:     0 Max:    50 Err:     0 (0,00%) Active: 5 Started: 5 Finished: 0
+[debug] summary = 2462551 in  1199s = 2053,2/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +  33277 in    30s = 1109,3/s Avg:     3 Min:     0 Max:    18 Err:     0 (0,00%) Active: 3 Started: 5 Finished: 2
+[debug] summary = 2495828 in  1229s = 2030,2/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] summary +   4172 in     7s =  608,0/s Avg:     3 Min:     0 Max:    12 Err:     0 (0,00%) Active: 0 Started: 5 Finished: 5
+[debug] summary = 2500000 in  1236s = 2022,3/s Avg:     2 Min:     0 Max:   397 Err:     0 (0,00%)
+[debug] Tidying up ...    @ Tue May 26 16:00:06 CEST 2015 (1432648806867)
+[debug] ... end of run
+[info] Completed Test: singleton-2.jmx
