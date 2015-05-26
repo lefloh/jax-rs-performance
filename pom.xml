@@ -9,22 +9,11 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.jboss.spec</groupId>
-        <artifactId>jboss-javaee-7.0</artifactId>
-        <version>1.0.3.Final</version>
-        <type>pom</type>
-        <scope>import</scope>
-      </dependency>
-    </dependencies>
-  </dependencyManagement>
-
   <dependencies>
     <dependency>
       <groupId>org.jboss.resteasy</groupId>
       <artifactId>jaxrs-api</artifactId>
+      <version>3.0.10.Final</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
