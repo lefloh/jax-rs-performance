@@ -36,33 +36,46 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>2.6</version>
       </plugin>
-      <plugin>
-        <groupId>com.lazerycode.jmeter</groupId>
-        <artifactId>jmeter-maven-plugin</artifactId>
-        <version>1.10.1</version>
-        <executions>
-          <execution>
-            <id>jmeter-tests</id>
-            <phase>verify</phase>
-            <goals>
-              <goal>jmeter</goal>
-            </goals>
-            <configuration>
-              <propertiesUser>
-                <host>192.168.59.103</host>
-                <testIterations>5000</testIterations>
-              </propertiesUser>
-              <!-- to perform them one by one
-              <testFilesIncluded>
-                <jMeterTestFile>singleton-1.jmx</jMeterTestFile>
-              </testFilesIncluded>
-              -->
-            </configuration>
-          </execution>
-        </executions>
-      </plugin>
     </plugins>
   </build>
+
+  <profiles>
+    <profile>
+      <id>jmeter</id>
+      <activation>
+        <activeByDefault>false</activeByDefault>
+      </activation>
+      <build>
+        <plugins>
+          <plugin>
+            <groupId>com.lazerycode.jmeter</groupId>
+            <artifactId>jmeter-maven-plugin</artifactId>
+            <version>1.10.1</version>
+            <executions>
+              <execution>
+                <id>jmeter-tests</id>
+                <phase>verify</phase>
+                <goals>
+                  <goal>jmeter</goal>
+                </goals>
+                <configuration>
+                  <propertiesUser>
+                    <host>192.168.59.103</host>
+                    <testIterations>5000</testIterations>
+                  </propertiesUser>
+                  <!-- to perform them one by one
+                  <testFilesIncluded>
+                    <jMeterTestFile>singleton-1.jmx</jMeterTestFile>
+                  </testFilesIncluded>
+                  -->
+                </configuration>
+              </execution>
+            </executions>
+          </plugin>
+        </plugins>
+      </build>
+    </profile>
+  </profiles>
 
   <repositories>
     <repository>

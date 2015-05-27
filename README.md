@@ -14,7 +14,7 @@ by maybe creating proxy objects.
     mvn clean install
     docker build -t jax-rs-performance .
     docker run -it --rm --name jax-rs-performance -p 8080:8080 -p 9990:9990 jax-rs-performance
-    mvn clean verify
+    mvn -Pjmeter clean verify
     
 The host and number of test iterations can be configured in the jmeter-maven-plugin settings of the pom.xml.
 
